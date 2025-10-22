@@ -74,5 +74,5 @@ python main.py
 
 - GPU: NVIDIA RTX 4090
 - 显存: ~24GB
-- 时间: ~5分钟/epoch
+- 时间: ~7分钟/epoch
 
