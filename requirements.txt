@@ -1,0 +1,7 @@
+torch>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# 可选依赖（用于BLEU评估）
+# sacrebleu>=2.3.0
+
